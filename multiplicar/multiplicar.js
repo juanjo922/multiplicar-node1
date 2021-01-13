@@ -17,9 +17,9 @@ let listarTabla = (base, limite = 10) => {
             return;
         }
 
-        console.log('============='.green);
+        console.log('============'.green);
         console.log(`tabla del ${base}`.green);
-        console.log('============='.green);
+        console.log('============'.green);
 
 
         let data = '';
